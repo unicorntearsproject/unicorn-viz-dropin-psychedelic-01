@@ -67,7 +67,7 @@ class Plasma(BaseEffect):
         'Copper Bars',
         'Hexy Stars',
         'Metaballs',
-        'Prism Lattice',
+        'Wormhole',
         'Psychedelic',
         'Audio Sine',
         'Tunnel',

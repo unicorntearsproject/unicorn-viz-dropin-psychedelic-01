@@ -90,7 +90,7 @@ class Psychedelic(BaseEffect):
         'Hexy Stars',
         'Metaballs',
         'Plasma',
-        'Prism Lattice',
+        'Wormhole',
         'Tunnel',
         'Wavey Gravy',
         'Tron Grid',

@@ -169,7 +169,7 @@ class Kaleidoscope(BaseEffect):
         'Metaballs',
         'Particle Storm',
         'Plasma',
-        'Prism Lattice',
+        'Wormhole',
         'Audio Sine',
         'Starfield',
         'Tunnel',
