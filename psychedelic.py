@@ -80,7 +80,7 @@ class Psychedelic(BaseEffect):
 
     NAME   = 'Psychedelic'
     AUTHOR = 'unicorn-viz'
-    TAGS = ['psychedelic', 'shader']
+    TAGS = ['psychedelic', 'shader', 'chill', 'intense']
     PING_PONG_FRIENDS = [
         'Fractal Zoom',
         'Kaleidoscope',

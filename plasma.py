@@ -61,7 +61,7 @@ void main() {
 class Plasma(BaseEffect):
     NAME = "Plasma"
     AUTHOR = "unicorn-viz"
-    TAGS = ["psychedelic", "classic"]
+    TAGS = ['psychedelic', 'classic', 'intense']
     PING_PONG_FRIENDS = [
         'Kaleidoscope',
         'Copper Bars',

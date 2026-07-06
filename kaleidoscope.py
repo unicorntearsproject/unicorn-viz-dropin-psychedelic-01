@@ -157,7 +157,7 @@ class Kaleidoscope(BaseEffect):
 
     NAME   = 'Kaleidoscope'
     AUTHOR = 'unicorn-viz'
-    TAGS = ['psychedelic', 'classic']
+    TAGS = ['psychedelic', 'classic', 'groovy', 'intense']
     PING_PONG_FRIENDS = [
         'Fractal Zoom',
         'Psychedelic',
