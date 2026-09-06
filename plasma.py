@@ -4,7 +4,6 @@ Audio-reactive: bass drives warp amplitude, treble drives color speed.
 """
 from __future__ import annotations
 
-import numpy as np
 import moderngl
 
 from unicornviz.effects.base import BaseEffect, AudioData
